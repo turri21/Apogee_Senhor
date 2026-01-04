@@ -1,3 +1,8 @@
+=(Apogee_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Apogee BK-01](https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BE%D0%B3%D0%B5%D0%B9_%D0%91%D0%9A-01) for [MiSTer Board](https://github.com/MiSTer-devel)
 
 A [Radio-86RK](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE_86%D0%A0%D0%9A) clone based on [Bashkiria 2M project](http://bashkiria-2m.narod.ru/index/fpga/0-12) with addition of precise K580VM80A (i8080) Verilog model by Vslav
@@ -30,3 +35,4 @@ Due to programmable of video chip, screen resolution is variable and can be not 
 
 ### Download precompiled binaries:
 Go to [releases](https://github.com/MiSTer-devel/Apogee_MiSTer/tree/master/releases) folder.
+
